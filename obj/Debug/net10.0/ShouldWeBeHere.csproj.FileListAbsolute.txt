@@ -1,0 +1,14 @@
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ShouldWeBeHere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ShouldWeBeHere.AssemblyInfoInputs.cache
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ShouldWeBeHere.AssemblyInfo.cs
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ShouldWeBeHere.csproj.CoreCompileInputs.cache
+C:\Users\K3556\ShouldWeBeHere\bin\Debug\net10.0\ShouldWeBeHere.exe
+C:\Users\K3556\ShouldWeBeHere\bin\Debug\net10.0\ShouldWeBeHere.deps.json
+C:\Users\K3556\ShouldWeBeHere\bin\Debug\net10.0\ShouldWeBeHere.runtimeconfig.json
+C:\Users\K3556\ShouldWeBeHere\bin\Debug\net10.0\ShouldWeBeHere.dll
+C:\Users\K3556\ShouldWeBeHere\bin\Debug\net10.0\ShouldWeBeHere.pdb
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ShouldWeBeHere.dll
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\refint\ShouldWeBeHere.dll
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ShouldWeBeHere.pdb
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ShouldWeBeHere.genruntimeconfig.cache
+C:\Users\K3556\ShouldWeBeHere\obj\Debug\net10.0\ref\ShouldWeBeHere.dll
